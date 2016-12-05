@@ -1,0 +1,1 @@
+cmd /k "D:\Program Files (x86)\Sunny\Tools\GreenTools\Notepad++\notepad++.exe" %windir%\system32\drivers\etc\hosts

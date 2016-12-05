@@ -1,0 +1,1 @@
+coverage\SignAssembly\SignAssembly.bat C:\coverage\SignAssembly PayoutManagementTool.Plugin1 dll OCPKey.snk

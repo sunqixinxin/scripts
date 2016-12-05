@@ -1,0 +1,1 @@
+cmd /k "D:\Program Files (x86)\Sunny\Tools\GreenTools\Notepad++\notepad++.exe" D:\Program Files (x86)\Sunny\Tools\MyTools\Rebot\RobotAnswerInfos\test1.txt

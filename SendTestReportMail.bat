@@ -1,0 +1,1 @@
+"D:\Program Files (x86)\Sunny\Tools\MyTools\MailSender\MailSender.exe" -type 2 -BizOpsTools1BOX 10.156.64.48 -FROM "v-susu@microsoft.com" -TO "v-susu@microsoft.com" -CC "v-susu@microsoft.com" -RESULTFOLDER "I:\test" -T "csTools.Main Comprehensive" -V "Version 22.22 (Build 2089.0)" -ISDAILYRUN false

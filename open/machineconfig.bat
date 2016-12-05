@@ -1,0 +1,2 @@
+::cmd "D:\Program Files (x86)\Notepad++\notepad++.exe" \\cpvmmserver01\cstools\machineconfig.xml
+cmd /k "D:\Program Files (x86)\Sunny\Tools\GreenTools\Notepad++\notepad++.exe" \\cpvmmserver01\cstools\machineconfig.xml
