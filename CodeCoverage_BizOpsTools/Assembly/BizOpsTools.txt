@@ -1,0 +1,7 @@
+Areas\BatchTool\bin\BatchTool.Plugin.dll
+Areas\Dashboard\bin\Dashboard.Plugin.dll
+Areas\PromotionManagement\bin\PromotionManagement.Plugin.dll
+Areas\PayoutManagementTool\bin\PayoutManagementTool.Plugin.dll
+Areas\NavigationPane\bin\NavigationPane.Plugin.dll
+Areas\BusinessAdminTool\bin\BusinessAdminTool.Plugin.dll
+Areas\ReportingTool\bin\ReportingTool.Plugin.dll

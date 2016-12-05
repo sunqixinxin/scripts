@@ -1,0 +1,5 @@
+bin\Microsoft.Commerce.Tools.ToolsService.Data.Core.dll
+bin\Microsoft.Commerce.Tools.ToolsService.Domain.Core.dll
+bin\Microsoft.Commerce.Tools.ToolsService.Infrastructure.Core.dll
+bin\Microsoft.Commerce.Tools.ToolsService.Infrastructure.Core.Etw.Logger.dll
+bin\Microsoft.Commerce.Tools.ToolsService.WebApi.Core.dll

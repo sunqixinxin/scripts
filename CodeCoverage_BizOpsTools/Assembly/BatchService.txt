@@ -1,0 +1,6 @@
+bin\BatchService.API.dll
+bin\BatchService.Common.dll
+bin\BatchService.DataAccess.dll
+bin\BatchService.Domain.dll
+bin\BatchService.RecoEngine.dll
+bin\BatchService.RuleEngine.dll

@@ -1,0 +1,5 @@
+BatchScheduler.exe
+BatchProcessing.Core.dll
+BatchWorker.CPWorker.dll
+BatchWorker.Proxy.dll
+BatchWorker.Utility.dll
